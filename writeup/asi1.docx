@@ -1,0 +1,18 @@
+ASSIGNMENT NUMBER 1
+
+STATEMENT: Develop an object oriented program in C++ to create a database of student information system containing the following information: Name, Roll number, Class, division, Date of Birth, Blood group, Contact address, telephone number, driving license no. etc Construct the database with suitable member functions viz, static member functions, friend class/ friend function, this pointer, inline code and dynamic memory allocation operators-new and delete. Implement all the keywords as mentioned in the problem statement.
+
+AIM:To develop a student database system using OOP concepts.
+
+DESCRIPTION:Create a class ‘student’ with friend functions to read and display student information. 
+
+OOP CONCEPT USED: 
+    1. Friend function-:A friend function of a class is defined outside that class' scope but it has the right to access all private and protected members of the class. 
+    2. This pointer-:In C++, this pointer is used to represent the address of an object inside a member function.
+    3. Inline function-:C++ provides an inline functions to reduce the function call overhead. Inline function is a function that is expanded in line when it is called. 
+    4. Dynamic memory allocation-:Dynamic memory allocation in C/C++ refers to performing memory allocation manually by programmer.
+C++ supports these functions and also has 2 operators ‘new’ and ‘delete’ that perform the task of allocating and freeing the memory in a better and easier way.
+5. Static Member Function -:A static member                               function is a special member function, which is used to access only static data members, any other normal data member cannot be accessed through static member function..
+CONCLUSION: In this following assignment, we learned the use of friend functions and this pointer. We also learned the use of dynamic memory allocation.
+
+
